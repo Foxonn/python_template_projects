@@ -1,4 +1,4 @@
 [flake8]
-inline-quotes = "
+inline-quotes = '
 application-import-names = .
 import-order-style = google
